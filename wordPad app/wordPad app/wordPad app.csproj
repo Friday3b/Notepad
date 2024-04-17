@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>wordPad_app</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="imagine\icon\copy.png" />
+    <None Remove="imagine\icon\diskette.png" />
+    <None Remove="imagine\icon\folders.png" />
+    <None Remove="imagine\icon\open-folder.png" />
+    <None Remove="imagine\icon\paste.png" />
+    <None Remove="imagine\icon\save-instagram.png" />
+    <None Remove="imagine\icon\scissors.png" />
+    <None Remove="imagine\icon\selection.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FakeData" Version="1.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.IO.FileSystem" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="imagine\icon\copy.png" />
+    <Resource Include="imagine\icon\diskette.png" />
+    <Resource Include="imagine\icon\folders.png" />
+    <Resource Include="imagine\icon\paste.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="imagine\icon\open-folder.png" />
+    <Resource Include="imagine\icon\save-instagram.png" />
+    <Resource Include="imagine\icon\scissors.png" />
+    <Resource Include="imagine\icon\selection.png" />
+  </ItemGroup>
+
+</Project>

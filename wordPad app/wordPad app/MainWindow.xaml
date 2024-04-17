@@ -1,0 +1,168 @@
+﻿<Window x:Class="wordPad_app.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wordPad_app"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" 
+        Closing="MainWindow_Closing">     
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition ></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+
+        <Grid Grid.Row="0">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+
+
+            </Grid.ColumnDefinitions>
+
+
+            <Border Grid.Row="0" Grid.Column="0">
+
+                <Image Source="imagine/icon/folders.png" Width="30"></Image>
+            </Border>
+
+            <Border Grid.Row="0" Grid.Column="1" Width="30">
+                <Image Source="imagine/icon/open-folder.png"
+                       ></Image>
+            </Border>
+
+            <Border Grid.Row="0" Grid.Column="2">
+                <Image Source="imagine/icon/diskette.png" 
+                       Width="25"></Image>
+
+            </Border>
+
+            <Border Grid.Row="0" Grid.Column="3">
+                <Image Source="imagine/icon/save-instagram.png" 
+           Width="25"></Image>
+
+            </Border>
+
+            <Border Grid.Row="0" Grid.Column="4">
+                <Image Source="imagine/icon/scissors.png" 
+           Width="25"></Image>
+
+            </Border>
+
+            <Border Grid.Row="0" Grid.Column="5">
+                <Image Source="imagine/icon/copy.png" 
+           Width="25"></Image>
+
+            </Border>
+
+            <Border Grid.Row="0" Grid.Column="6">
+                <Image Source="imagine/icon/paste.png" 
+           Width="25"></Image>
+
+            </Border>
+
+            <Border Grid.Row="0" Grid.Column="7">
+                <Image Source="imagine/icon/selection.png" 
+           Width="25"></Image>
+
+            </Border>
+
+        </Grid>
+
+        <!-- 2 ci cergede olanlar -->
+
+        <Grid Grid.Row="1">
+
+            <Grid.ColumnDefinitions>
+
+
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+
+
+
+            </Grid.ColumnDefinitions>
+
+
+
+            <TextBox Grid.Row="0" Grid.Column="0"  Background="White"
+                    Name="filepath">
+
+            </TextBox>
+
+            <Button Grid.Row="0" Grid.Column="1" Content="File open"  Background="CornflowerBlue"
+                    Click="FileOpen_button">
+
+            </Button>
+
+            <Button Grid.Row="0" Grid.Column="2" Content="Save"  Background="CornflowerBlue"
+                    
+                    Click="Save_button">
+
+            </Button>
+
+            <Button Grid.Row="0" Grid.Column="3" Content="Auto-Save"  Background="CornflowerBlue"
+                    >
+
+            </Button>
+
+            <Button Grid.Row="0" Grid.Column="4" Content="Cut"  Background="CornflowerBlue"
+                    Click="Cut_button">
+
+            </Button>
+
+            <Button Grid.Row="0" Grid.Column="5" Content="Copy"  Background="CornflowerBlue"
+                    Click="Copy_button">
+
+            </Button>
+
+            <Button Grid.Row="0" Grid.Column="6" Content="Paste"  Background="CornflowerBlue"
+                    Click="Paste_button">
+
+            </Button>
+
+            <Button Grid.Row="0" Grid.Column="7" Content="Select all"  Background="CornflowerBlue"
+                    Click="SelectAll_button">
+
+            </Button>
+
+
+        </Grid>
+
+
+        <Grid Grid.Row="2">
+
+            <TextBox FontSize="24"  
+                     Name="textbox1">
+
+
+
+            </TextBox>
+
+
+        </Grid>
+
+
+
+    </Grid>
+    
+    
+</Window>

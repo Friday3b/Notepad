@@ -1,0 +1,24 @@
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\bin\Debug\net8.0-windows\wordPad app.exe
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\bin\Debug\net8.0-windows\wordPad app.deps.json
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\bin\Debug\net8.0-windows\wordPad app.runtimeconfig.json
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\bin\Debug\net8.0-windows\wordPad app.dll
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\bin\Debug\net8.0-windows\wordPad app.pdb
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\MainWindow.g.cs
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\App.g.cs
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app_MarkupCompile.cache
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app_MarkupCompile.lref
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\MainWindow.baml
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app.g.resources
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app.GeneratedMSBuildEditorConfig.editorconfig
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app.AssemblyInfoInputs.cache
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app.AssemblyInfo.cs
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app.csproj.CoreCompileInputs.cache
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app.dll
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\refint\wordPad app.dll
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app.pdb
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app.genruntimeconfig.cache
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\ref\wordPad app.dll
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\bin\Debug\net8.0-windows\FakeData.dll
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app.csproj.AssemblyReference.cache
+T:\Proqramlar\VisualStudio\Taleh\wordPad app\wordPad app\obj\Debug\net8.0-windows\wordPad app.csproj.CopyComplete
